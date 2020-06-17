@@ -19,6 +19,8 @@
   "start": "next start"
 }
 ```
+4. Start adding page to pages folder
+5. `npm run dev` and checkout `https://localhost:3000`
 
 ## References
 - [Client Side Rendering VS Server Side Rendering](https://medium.com/@yudhajitadhikary/client-side-rendering-vs-server-side-rendering-in-react-js-next-js-b74b909c7c51)
